@@ -14,5 +14,6 @@ Bağımlılık Tersine Çevirme prensibi, SOLID prensipleri içinde yer alan bir
 
 ### Kaynaklar
 [Özelikle Okunması gereken gençay yıldız 👇🏻]
+
 https://www.gencayyildiz.com/blog/bagimliligin-ters-cevrilmesi-prensibidependency-inversion-principle-dip/
 https://altaygencaslan.medium.com/dependency-injection-ve-dependency-inversion-principle-d20578c793b8

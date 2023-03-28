@@ -9,7 +9,8 @@ Bağımlılık Tersine Çevirme prensibi, SOLID prensipleri içinde yer alan bir
 
 
 ## Diyagram
-https://www.gencayyildiz.com/blog/bagimliligin-ters-cevrilmesi-prensibidependency-inversion-principle-dip/bagimliligin-ters-cevrilmesi-prensibidependency-inversion-principle-dip-3/
+![Bağımlılığın-Ters-Çevrilmesi-PrensibiDependency-Inversion-Principle-DIP-2](https://user-images.githubusercontent.com/43173282/228196241-df90ef3a-22f5-47da-9dae-4350ebf20d1b.jpg)
+
 
 ### Kaynaklar
 https://www.gencayyildiz.com/blog/bagimliligin-ters-cevrilmesi-prensibidependency-inversion-principle-dip/
